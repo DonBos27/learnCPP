@@ -1,0 +1,3 @@
+/Users/donbosenga/CLionProjects/firstproject/cmake-build-debug/CMakeFiles/firstproject.dir
+/Users/donbosenga/CLionProjects/firstproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/donbosenga/CLionProjects/firstproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
